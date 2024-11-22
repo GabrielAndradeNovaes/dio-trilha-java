@@ -22,7 +22,7 @@ public class contaTerminal {
                 + "sua agência é " + agencia + ", conta " + numeroConta
                 + " e seu saldo " + saldo + " já está disponível para saque.");
 
-        // Fechando o scanner para liberar recursos
+        
         scanner.close();
     }
 }
